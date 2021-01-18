@@ -22,7 +22,7 @@ services:
 
 
   client:
-    image: openchemistry/mongochemclient:1.0
+    image: openchemistry/mongochemclient:latest
 
   ansible:
     image: openchemistry/ansible:1.0
